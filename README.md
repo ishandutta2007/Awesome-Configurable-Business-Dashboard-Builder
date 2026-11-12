@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder?style=social)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder?style=social)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder?style=social)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/blob/main/README.md#how-to-contribute)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -81,7 +81,7 @@ The sector features a distinct **hybrid market structure**:
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | ⭐ Stars | 📝 Description |
+| Project | ⭐ GitHub_Stars | 📝 Description |
 |---|---|---|
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | The open and composable observability and data visualization platform. Visualizes metrics, logs, and traces from 100+ data sources with dynamic dashboards, alerting, and plugins. |
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Modern, enterprise-ready business intelligence web application. Features a drag-and-drop dashboard builder, rich visualization palette, SQL Lab for ad-hoc querying, and granular role-based access. |
@@ -112,7 +112,7 @@ Contributions are welcome and appreciated! To maintain high resource quality:
    ```bash
    git checkout -b feature/add-new-dashboard-tool
    ```
-3. 📝 **Add or edit entries in `README.md`** following the existing tabular structure (ensure proper pricing details, free tier limits, star badges, and links).
+3. 📝 **Add or edit entries in `README.md`** following the existing tabular structure (ensure proper pricing details, free tier limits, Stars_Badges, and links).
 4. ✅ **Ensure accuracy**: Verify links, pricing plans, and open-source licenses before submitting.
 5. 🚀 **Open a Pull Request** describing your additions and why they benefit the community.
 
