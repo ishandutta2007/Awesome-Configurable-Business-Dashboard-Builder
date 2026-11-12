@@ -1,6 +1,6 @@
 # Awesome-Configurable-Business-Dashboard-Builder
 
-# Top Configurable Business Dashboard Builder Ecosystem
+## Top Configurable Business Dashboard Builder Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Drag-and-Drop Dashboard Creation, Embedded Analytics & Self-Service BI*  
