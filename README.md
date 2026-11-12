@@ -1,33 +1,70 @@
-# Awesome-Configurable-Business-Dashboard-Builder
+<div align="center">
 
-## Top Configurable Business Dashboard Builder Ecosystem
+<a href="assets/banner.svg">
+  <img src="assets/banner.svg" alt="Awesome Configurable Business Dashboard Builder Banner" width="100%" />
+</a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Drag-and-Drop Dashboard Creation, Embedded Analytics & Self-Service BI*  
-**Last updated: March 2026**
+# 📊 Awesome Configurable Business Dashboard Builder
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Configurable Business Dashboard Builders**. These tools enable teams to assemble interactive dashboards from multiple data sources without writing code—covering drag-and-drop editors, semantic layers, embedded analytics, and self-service BI that turns raw data into decision-ready visualizations.
+**A Curated Directory of Enterprise SaaS Solutions & Open-Source Dashboard Frameworks**  
+*Empowering modern data teams with drag-and-drop dashboard creation, self-service business intelligence (BI), semantic metrics, and embedded analytics.*
 
-**Examples** include Tableau, Microsoft Power BI, Looker, Domo, Sisense, Klipfolio, Geckoboard, Databox, GoodData, and Icertis Dashboard Builder (the category leaders).
+<br/>
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted BI, open-source dashboard builders, and community-driven analytics platforms—ideal for organizations seeking data sovereignty and predictable costs over per-seat SaaS subscriptions.
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder?style=social)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder?style=social)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/network/members)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder/blob/main/README.md#how-to-contribute)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+<br/>
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+[🌟 Key Highlights](#-key-highlights) • [📈 Sector Overview](#-sector-overview--market-dynamics) • [💼 SaaS Platforms](#-saashosted-platforms) • [💻 Open-Source Repositories](#-open-source-github-projects) • [🤝 Contribution](#-how-to-contribute) • [⭐ Star History](#-star-history) • [☕ Support](#-support)
 
-## Sector Overview & Market Dynamics
+</div>
 
-The global Business Intelligence and dashboard software market is estimated at **$27 billion to $33 billion** (projected to reach over $60 billion by 2032 at an ~8.5% CAGR). The sector exhibits a **hybrid market structure**: it is heavily **concentrated at the enterprise top tier**—where tech giants (Microsoft Power BI, Salesforce Tableau, Google Cloud Looker) capture over 40% of enterprise market share through ecosystem lock-in and bundled clouds—yet **moderately to highly fragmented across the broader ecosystem**, where specialized SaaS vendors and open-source alternatives thrive by targeting self-service simplicity, embedded analytics, and custom data workflows.
+---
 
-## SaaS/Hosted Platforms
+## 🧭 Overview & SEO Summary
 
-| Product | Company Scale (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Trial Limits |
+**Configurable Business Dashboard Builders** are specialized data platforms that allow analysts, product managers, and developers to assemble interactive, production-ready operational dashboards from heterogeneous data stores (SQL databases, data lakes, APIs, cloud warehouses) without writing boilerplate front-end code.
+
+Whether you require a scalable **drag-and-drop visual dashboard builder**, **embedded white-label analytics** for multi-tenant SaaS products, a **governed semantic layer** (LookML, Cube), or **self-hosted open-source BI** to retain data privacy, this directory provides a side-by-side technical and economic breakdown of the leading solutions.
+
+### 🌟 Key Highlights
+- 🎯 **Self-Service Business Intelligence**: Empower non-technical stakeholders to slice, filter, and drill into business KPIs.
+- 🧩 **Drag-and-Drop Authoring**: Rapid assembly of charts, KPI cards, tables, maps, and real-time alerts.
+- 🔒 **Data Governance & Semantic Layer**: Centralized business metric calculations ensuring consistent metrics across teams.
+- ⚡ **Embedded Analytics**: Clean SDKs, iframe embeds, and low-latency APIs to surface dashboards inside customer apps.
+- 💰 **Cost Transparency**: Granular breakdown of SaaS base pricing, user seat models, and self-hosted open-source options.
+
+---
+
+## 📑 Table of Contents
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [☕ Support](#-support)
+- [📜 Disclaimer](#-disclaimer)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global Business Intelligence and configurable dashboard software market is currently estimated between **$27 billion and $33 billion** (projected to reach over **$60 billion by 2032** at an **~8.5% CAGR**). 
+
+The sector features a distinct **hybrid market structure**:
+1. **Concentrated Enterprise Core (Oligopoly at the Top)**: Mega-cap tech conglomerates—notably **Microsoft (Power BI)**, **Salesforce (Tableau)**, and **Google Cloud (Looker)**—capture over 40% of the enterprise spend. Their dominance stems from enterprise suite bundling (Microsoft 365, Azure Fabric, Salesforce Data Cloud, Google BigQuery) and massive partner networks.
+2. **Moderately to Highly Fragmented Long-Tail**: Outside the tech titans, hundreds of independent vendors and active open-source platforms compete across specialized segments including embedded customer-facing analytics (Sisense, GoodData), live TV monitoring (Geckoboard), agile growth metrics (Databox), and developer-centric code-first BI (Cube, Lightdash, Evidence).
+
+---
+
+## 💼 SaaS/Hosted Platforms
+
+| Product | 🏢 Company Scale (Valuation / Revenue) | 📝 Description | 🏷️ Starting Pricing | 🎁 Free Tier / Trial Limits |
 |---|---|---|---|---|
 | **[Microsoft Power BI](https://powerbi.microsoft.com/)** | ~$3.9T Market Cap / ~$346B Annual Revenue (Parent: Microsoft) | Microsoft's enterprise BI platform with desktop authoring, cloud publishing, and embedded analytics across Microsoft 365 and Azure environments. | **$14/user/month** (Power BI Pro plan, annual commitment) | **Free forever**: Power BI Desktop (local authoring, no cloud sharing); **60-day free trial** for Power BI Pro/PPU with full platform capabilities |
 | **[Looker (Google Cloud)](https://looker.com/)** | ~$2.1T Market Cap / ~$471B Annual Revenue (Parent: Alphabet) | Enterprise BI and semantic data modeling platform (LookML) enabling governed self-service metrics and centralized data definitions. | **$5,000/month** (Standard Platform, includes 1 production instance, 10 Standard users, 2 Developer users; or $9/user/mo for Looker Studio Pro) | **No free forever tier**; **30-day free trial** via Google Cloud sales/sandbox with evaluation data limits |
@@ -40,9 +77,11 @@ The global Business Intelligence and dashboard software market is estimated at *
 | **[Databox](https://databox.com/)** | ~$15M ARR (Privately held) | Business dashboard and performance tracking platform designed for marketing, sales, and agency KPI reporting. | **$47/month** (Starter plan, billed annually; includes 5 users and 5 data source connections) | **Free forever**: Free plan with 3 users, 3 data sources, 3 dashboards, and daily data refresh; **14-day free trial** for Starter/Professional tiers |
 | **[Geckoboard](https://www.geckoboard.com/)** | ~$10M ARR (Privately held) | Lightweight KPI dashboard designer optimized for live wall-mounted office TVs, team monitors, and mobile tracking. | **$60/month** (Essentials plan, billed annually at $720/year; includes 1 dashboard and 1 editor) | **No free forever tier**; **14-day free trial** with full access to 90+ data sources, unmetered viewer links, and TV pairing |
 
-## Open-Source GitHub Projects
+---
 
-| Project | Star Badge | Description |
+## 💻 Open-Source GitHub Projects
+
+| Project | ⭐ Stars | 📝 Description |
 |---|---|---|
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | The open and composable observability and data visualization platform. Visualizes metrics, logs, and traces from 100+ data sources with dynamic dashboards, alerting, and plugins. |
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Modern, enterprise-ready business intelligence web application. Features a drag-and-drop dashboard builder, rich visualization palette, SQL Lab for ad-hoc querying, and granular role-based access. |
@@ -62,22 +101,51 @@ The global Business Intelligence and dashboard software market is estimated at *
 | **[Dashboard Studio (Rust + WASM)](https://github.com/automataIA/dashboard-studio-rs)** | [![Stars](https://img.shields.io/github/stars/automataIA/dashboard-studio-rs?style=social&color=white)](https://github.com/automataIA/dashboard-studio-rs/stargazers) | Privacy-first, client-side data visualization powered by Rust + WebAssembly. Upload CSV data, create dashboards with 11 chart types, drag-and-drop layout, and auto-save to localStorage. |
 | **[DashForge](https://github.com/plexusone/dashforge)** | [![Stars](https://img.shields.io/github/stars/plexusone/dashforge?style=social&color=white)](https://github.com/plexusone/dashforge/stargazers) | JSON-first dashboard framework with a drag-and-drop visual builder. Starts simple with static hosting and scales to multi-tenancy, SSO, Cube semantic layer, and AI widget generation. |
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format and guidelines).
-3. Include: name, link, star badge, concise description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+Contributions are welcome and appreciated! To maintain high resource quality:
 
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Dashboard builders connect to production data sources and can expose sensitive business metrics; enforce row-level security, SSO, and audit logging for dashboard access.
-- SaaS pricing varies dramatically: some platforms charge per-user (Power BI, Tableau, Geckoboard), others use usage/credit platforms or enterprise contracts (Domo, Looker, Sisense). Open-source tools require infrastructure provisioning and ongoing maintenance but eliminate per-seat licensing and provide data sovereignty.
+1. 🍴 **Fork the repository** to your personal GitHub account.
+2. 🌿 **Create a branch** for your feature or update:
+   ```bash
+   git checkout -b feature/add-new-dashboard-tool
+   ```
+3. 📝 **Add or edit entries in `README.md`** following the existing tabular structure (ensure proper pricing details, free tier limits, star badges, and links).
+4. ✅ **Ensure accuracy**: Verify links, pricing plans, and open-source licenses before submitting.
+5. 🚀 **Open a Pull Request** describing your additions and why they benefit the community.
 
 ---
 
-**Made for business analysts, data teams, operations managers, and developers building analytics infrastructure.**  
-Let's make configurable dashboard building more open, accessible, and cost-predictable.
+## ☕ Support
+
+If you find this curated directory helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork it and share** with data engineering, analytics, and product communities.
+- 💬 **Join our discussions** and contribute reviews or feedback on new tools.
+- ☕ **Buy a coffee & sponsor**: Support ongoing research, maintenance, and curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Configurable-Business-Dashboard-Builder&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an official product endorsement.
+- Configurable dashboard builders directly connect to production data stores; always enforce strict row-level security (RLS), multi-factor authentication (MFA), role-based access control (RBAC), and audit logging.
+- SaaS pricing, packaging, and free-tier limits change over time; verify current details directly on vendor pricing pages before procurement.
+
+---
+
+<div align="center">
+
+**Built with ❤️ for business analysts, analytics engineers, product teams, and software architects.**  
+*Empowering developers and organizations to build better, faster, and more accessible dashboard solutions.*
+
+</div>
